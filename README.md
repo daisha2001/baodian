@@ -1,1 +1,1 @@
-# baodian# baodian
+先前在天善智能那儿得到了一些翻译版的DataCamp，于是也抽空过一遍内容，把一些觉得常用的内容给记录下来，主要围绕着建模相关的资料内容，所以主要还是Pandas、Numpy、Scikit-learn为主了。
